@@ -6,7 +6,7 @@ This is a small Python Script for naming audio Quran surahs Filies with their re
 </br>
 <h2>How to use?</h2>
 <p>
-First, must have Python installed on your machine then follow these steps.</br>
+First, You must have Python installed on your machine then follow these steps.</br>
   1. Download three files (the py file and two txt files.</br>
   2. Set up the environment and install the needed packages. </br>
   3. Copy the path of the surahs folder and assign it as the value of the variable named "path" (The folder should include all Quran surahs and nothing more)</br>
