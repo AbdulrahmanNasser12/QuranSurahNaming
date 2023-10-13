@@ -1,7 +1,7 @@
 <h1>Naming holy Quran Surahs in Arabic and English</h1>
 
 <p>
-This is a small Python Script for naming audio Quran surahs Filies with their real names in Arabic and English instead of their index
+This is a small Python Script for naming audio Quran surahs Files with their real names in Arabic and English instead of their index
 </p>
 </br>
 <h2>How to use?</h2>
